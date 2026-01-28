@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary": "Plan to integrate a chatbot into the Streamlit app.\nThe chatbot will verify basic questions about the uploaded dataset using the available dataframe in session state.\nIt will use Streamlit's native chat components.",
+  "updatedAt": "2026-01-24T12:15:44.775953200Z"
+}
